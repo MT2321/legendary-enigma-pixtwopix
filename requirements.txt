@@ -1,0 +1,5 @@
+torchsummary
+torch
+torchviz
+matplotlib
+numpy
